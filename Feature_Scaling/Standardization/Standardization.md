@@ -15,7 +15,7 @@ Z-score is one of the most popular methods to standardize data, and can be done 
 
 ![image](https://user-images.githubusercontent.com/89294557/185532997-52d8a898-92d5-4894-a5d2-a504eda01e73.png)
   
-Once the standardization is done, all the features will have a <b>mean of zero, a standard deviation of one<>, and thus, the same scale.  
+The idea behind using standardization before applying machine learning algorithm is to transform you data such that its distribution will have <b>mean value 0 and standard deviation as 1.</b>  
 </p>
 <br>
 
