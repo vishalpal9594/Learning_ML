@@ -7,11 +7,20 @@
     <br><b>types of normalization are:</b>
     <br>1.minmax scaling
     <br>2.mean normalization
-    <br>3.absolute max 
-    <br>4.robust scaling
+    <br>3.max absolute scaling
+    <br>4.robust scaling -(best of outlier's)
 </p>
 
 <h3>min-max normalization :</h3>
-<img src= 'https://androidkt.com/wp-content/uploads/2020/10/Selection_060.png' alt='formula' width="250" height="100">
+
+![image](https://user-images.githubusercontent.com/89294557/185829489-62241761-6d77-49c1-9d90-11af96ddc7e2.png)
 
 
+<br><h3>mean normalization :</h3>
+![image](https://user-images.githubusercontent.com/89294557/185829455-1a2f9db1-3c1c-42ce-8ed0-51b77f5d0a9a.png)
+
+<br><h3>max absolute scaling :</h3>
+![image](https://user-images.githubusercontent.com/89294557/185829324-24ae03b4-c4e0-4e7d-9d6d-11378800c393.png)
+
+<br><h3>robust scaling :</h3>
+![image](https://user-images.githubusercontent.com/89294557/185829394-743b4248-aae0-48ea-b801-320eb637b3a6.png)
