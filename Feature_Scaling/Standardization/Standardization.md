@@ -13,3 +13,5 @@ Z-score is one of the most popular methods to standardize data, and can be done 
 <br>
 
 <h4> Standardization does not get affected by outliers because there is no predefined range of transformed features.</h4>
+
+<b>Standardization well work on <br>k-mean clustering <br>k-nearest neibour <br>principle component analysis <br>Artifial neural network<br> Gradient discent</b>
