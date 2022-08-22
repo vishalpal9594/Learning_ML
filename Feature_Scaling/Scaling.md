@@ -4,7 +4,8 @@ Feature scaling comes into picture when features of the input data set have larg
 Feature Scaling is a technique to standardize the independent features present in the data in a fixed range.
   
 Any machine learning algorithm that computes the distance between the data points needs Feature Scaling (Standardization and Normalization). 
-
+<br><br>
+  <b>fit only training data transform both traning as well as testing datas</b>
 </p>
 
 
