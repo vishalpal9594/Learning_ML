@@ -2,7 +2,9 @@
 
 <h3>Label Encoding or Ordinal Encoding</h3>
 <p>
-This type of encoding is used when the variables in the data are ordinal, ordinal encoding converts each label into integer values and the encoded data represents the sequence of labels.
+We use this categorical data encoding technique when the categorical feature is ordinal. In this case, retaining the order is important. Hence encoding should reflect the sequence.
+<br>
+In Label encoding, each label is converted into an integer value. We will create a variable that contains the categories representing the education qualification of a person.
 </p>  
   
   
