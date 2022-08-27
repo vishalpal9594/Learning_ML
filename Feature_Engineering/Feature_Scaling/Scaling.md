@@ -9,9 +9,6 @@ Any machine learning algorithm that computes the distance between the data point
 </p>
 
 
-
-
-
 <h2>which machine learning algorithum need feature scaling <h2>
 
 ![image](https://user-images.githubusercontent.com/89294557/185535648-81326636-5b81-4aaf-a377-71fb88876edd.png)
