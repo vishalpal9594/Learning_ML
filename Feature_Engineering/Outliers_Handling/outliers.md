@@ -33,7 +33,8 @@ An Outlier is a data-item/object that deviates significantly from the rest of th
   <br>The data points which fall below Q1 – 1.5 IQR or above Q3 + 1.5 IQR are outliers.
   <br>where Q1 and Q3 are the 25th and 75th percentile of the dataset respectively, and IQR represents the inter-quartile range and given by Q3 – Q1.
   
-  ![image](https://user-images.githubusercontent.com/89294557/187845884-f34913f4-8a88-4197-a819-738e4ca13a85.png)
+  ![image](https://user-images.githubusercontent.com/89294557/187854807-55b8586d-c486-4e53-9f62-cd259ae82980.png)
+
 
    <br><br>
   
